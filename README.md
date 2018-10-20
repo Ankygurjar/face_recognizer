@@ -1,6 +1,6 @@
 # face_recognizer
 This project is based on OpenCv library using Python. It is basically a face recognition system.
-<h1>Please make a dataSet and recognizer folder in your main folder where you have saved all the other files of project</h1>
+<h3 style="color:red">Please add a "dataSet" and "recognizer" folder in your main folder where you have saved all the other files of project</h3>
 1.You need to have Python3 installed. If you are working on Ubuntu than don't worry Ubuntu already have it installed.
 2.Download and install the following libraries:
     i.OpenCv
